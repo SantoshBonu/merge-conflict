@@ -1,7 +1,7 @@
 pseudo code
 {
 Initial Function()
-{
+{hello
   //Sample Code
 }
 
