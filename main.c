@@ -2,6 +2,8 @@ pseudo code
 {
 Initial Function()
 {hello
+edited data
+feature1
   //Sample Code
 }
 
